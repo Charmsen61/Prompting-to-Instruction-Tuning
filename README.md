@@ -20,10 +20,6 @@ Summarization
 
 A failure case is also included to show that instruction tuning improves behavior but does not completely eliminate reasoning mistakes.
 
-Files Included
-instruction_tuning_simulation.py - Main experiment file containing all prompts, outputs, comparisons, and failure case analysis.
-README.md - Project description and overview.
-Experiment Structure
 Part 1: Prompt-Only Behavior
 
 The model receives a direct instruction without examples and attempts to complete the task.
