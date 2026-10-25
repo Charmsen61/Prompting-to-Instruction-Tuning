@@ -12,8 +12,10 @@ This project explores the difference between prompt-only behavior and instructio
 
 The experiment compares model performance across three different tasks:
 
-Translation
-Explanation for a child
+Translation,
+
+Explanation for a child,
+
 Summarization
 
 A failure case is also included to show that instruction tuning improves behavior but does not completely eliminate reasoning mistakes.
