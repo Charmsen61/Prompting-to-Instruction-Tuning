@@ -37,8 +37,13 @@ Part 4: Failure Case
 A reasoning task demonstrates that even with instruction examples, the model can still generate incorrect answers.
 
 Key Findings
+
 Instruction examples improved consistency and formatting.
+
 Translation and explanation tasks showed the largest improvements.
+
 Summarization became more concise after examples were provided.
+
 Instruction tuning helps guide behavior but does not guarantee correct reasoning.
+
 Models can still fail on tasks that require multi-step calculations or logic.
